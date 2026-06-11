@@ -67,7 +67,7 @@ I enjoy turning complex problems into clean, efficient, and user-friendly produc
 
 ## 🚀 Featured Projects
 
-### 🏥 Healthcare Management System
+### 🏥 City Caare - Hospital Management System
 - Role-based authentication & authorization  
 - Secure REST APIs  
 - Cloud deployment  
