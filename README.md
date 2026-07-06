@@ -75,26 +75,23 @@ I enjoy turning complex problems into clean, efficient, and user-friendly produc
 
 ---
 
-### 💰 Expense & Finance Management System
-- Income & expense tracking  
-- Category analytics  
-- Secure backend APIs  
-- Tech: MERN Stack  
+📚 ResearchMind AI – Research Paper Analysis & Summarization System
+AI-powered research paper retrieval & summarization
+Multi-LLM workflow with LangGraph & LangChain
+Semantic Scholar API & PDF processing
+Comparative analysis of research papers
+Interactive Gradio web interface
+Tech: Python • LangGraph • LangChain • OpenAI GPT • Gemini 1.5 Pro • PyMuPDF • Semantic Scholar API • Gradio
 
 ---
 
-### 🤖 AI Legal Document Analyzer
-- NLP-based legal text analysis  
-- Intelligent summarization  
-- Keyword extraction  
-- Tech: Python • NLP • ML  
-
----
-
-### 🎓 Generative AI EdTech Platform
-- AI Tutor & Quiz Generator  
-- LLM-based content creation  
-- Personalized learning paths  
+🦠 MalariaVision AI – Malaria Parasite Detection System
+Deep learning-based malaria parasite detection
+Fine-tuned VGG16 on NIH Cell Images Dataset
+Real-time image inference & probability scoring
+Clinician-friendly decision support dashboard
+Flask-based web application deployment
+Tech: Python • TensorFlow • VGG16 • Flask  
 
 ---
 
